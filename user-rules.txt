@@ -1,0 +1,26 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+!!! proxy list
+githubusercontent.com
+avatars2.githubusercontent.com
+avatars3.githubusercontent.com
+raw.githubusercontent.com
+camo.githubusercontent.com
+virtualaccess.com
+iot.inhandnetworks.com
+files.pythonhosted.org
+apps.apple.com
+openwrt.org
+wiki.codeaurora.org
+www.linuxfromscratch.org
+sectools.org
+www.linuxfordevices.com+
+www.nfstream.org
+sqlite.org
+https://netopeer.liberouter.org/
+wikipedia.org
+
+
+!!! allow list
+@@||inhand.design
